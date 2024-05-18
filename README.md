@@ -1,2 +1,1 @@
-# Irchub
-Goldsmiths CompSci Final Project
+# BSc CS Final Project Prototype
